@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MicrophoneApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/mic_active</item>
+        <item name="colorPrimaryVariant">#0052CC</item>
+        <item name="colorSecondary">@color/normal_active</item>
+        <item name="colorSecondaryVariant">#00AA00</item>
+        <item name="colorError">#B3261E</item>
+        <item name="android:colorBackground">#1a1a1a</item>
+        <item name="android:colorForeground">@color/white</item>
+    </style>
+</resources>

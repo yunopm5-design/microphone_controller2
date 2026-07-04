@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Microphone App</string>
+    <string name="app_title">🎤 Audio Router</string>
+    <string name="button_mic">Mikrofon</string>
+    <string name="button_normal">Hoparlör</string>
+    <string name="status_mic">Ses Mikrofona Yönlendirildi</string>
+    <string name="status_normal">Ses Hoparlöre Yönlendirildi</string>
+    <string name="hint_text">Buton basarak ses çıkışını değiştir</string>
+</resources>
